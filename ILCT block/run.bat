@@ -1,0 +1,1 @@
+D:\BtSoft\WebSoft\php\5.5\php.exe -q D:\IndustryChain-qt\block\cron\parse_txs.php
