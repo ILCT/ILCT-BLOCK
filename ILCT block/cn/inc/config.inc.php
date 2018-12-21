@@ -51,10 +51,10 @@ $txper_page = 10;
 $rpc_client = 'scoins';
 
 // RPC username
-$rpc_user = 'ilctadmin';
+$rpc_user = '';
 
 // RPC password
-$rpc_pass = 'ilct123358';
+$rpc_pass = '';
 
 // address of coinbase account
 $cb_address = 'QvacN4Y2t2sDxbeQQPs4Pd13f7agz';
